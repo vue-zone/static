@@ -1,0 +1,2 @@
+# easy-static
+Static files
