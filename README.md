@@ -1,2 +1,3 @@
-# easy-static
+# VueZone
+
 Static files
